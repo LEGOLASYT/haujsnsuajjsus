@@ -1,0 +1,17 @@
+{
+  "name": "huntbot",
+  "version": "0.0.1",
+  "description": "owo huntbot",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
